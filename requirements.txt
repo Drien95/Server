@@ -1,0 +1,3 @@
+# requirements.txt
+# Python n'a pas de package obligatoire ici, mais précise la version
+python_version >= 3.9
